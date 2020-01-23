@@ -2,6 +2,7 @@
 #!/bin/bash
 
 
+
 #zmienna globalna
 #ładowanie danych z pliku
 user_list=(`cat users.txt`)
